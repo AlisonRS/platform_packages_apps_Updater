@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HardenedOS Updater</string>
+    <string name="app_name">Placeholder Updater</string>
     <string name="notification_channel">Updates</string>
     <string name="notification_title">Update successfully installed</string>
     <string name="notification_title_legacy">Update successfully downloaded</string>
