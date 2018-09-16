@@ -1,4 +1,4 @@
-package co.copperhead.updater;
+package co.blackbox.updater;
 
 import android.app.job.JobInfo;
 import android.content.Context;

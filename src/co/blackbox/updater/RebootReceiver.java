@@ -1,4 +1,4 @@
-package co.copperhead.updater;
+package co.blackbox.updater;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

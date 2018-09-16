@@ -1,4 +1,4 @@
-package co.copperhead.updater;
+package co.blackbox.updater;
 
 import static android.os.Build.DEVICE;
 import static android.os.Build.FINGERPRINT;
