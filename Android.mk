@@ -25,6 +25,7 @@ LOCAL_SRC_FILES := $(LOCAL_MODULE)
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
+LOCAL_PRIVATE_PLATFORM_APIS := true
 LOCAL_PACKAGE_NAME := Updater
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
